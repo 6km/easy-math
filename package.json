@@ -1,26 +1,30 @@
 {
-  "name": "@e3sar33/easy-math",
-  "version": "1.0.0",
-  "description": "A useful javascript math library",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest",
-    "build": "tsc",
-    "build:watch": "tsc --watch"
-  },
-  "keywords": [
-    "math",
-    "javascript",
-    "mathematics",
-    "algebra",
-    "statistics",
-    "utils"
-  ],
-  "author": "Mohammed Taha",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^16.11.6",
-    "jest": "^27.3.1",
-    "typescript": "^4.4.4"
-  }
+    "name": "@e3sar33/easy-math",
+    "version": "1.0.0",
+    "description": "A useful javascript math library",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "build": "tsc",
+        "build:watch": "tsc --watch"
+    },
+    "keywords": [
+        "math",
+        "javascript",
+        "mathematics",
+        "algebra",
+        "statistics",
+        "utils"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/6km/easy-math.git"
+    },
+    "author": "Mohammed Taha",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^16.11.6",
+        "jest": "^27.3.1",
+        "typescript": "^4.4.4"
+    }
 }
