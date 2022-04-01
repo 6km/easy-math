@@ -36,6 +36,13 @@ export default {
     isFunction(x: any) { return typeof x === 'function' },
 
     /**
+     * Test whether a value is an array.
+     * 
+     * @param x
+     */
+    isArray(x: any) { return x instanceof Array },
+
+    /**
      * Test whether a value is a date.
      * 
      * @param x
