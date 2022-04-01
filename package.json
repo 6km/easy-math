@@ -1,5 +1,5 @@
 {
-  "name": "easy-math",
+  "name": "@e3sar33/easy-math",
   "version": "1.0.0",
   "description": "A useful javascript math library",
   "main": "index.js",
